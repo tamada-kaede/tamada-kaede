@@ -1,4 +1,13 @@
-### Hi there
+# Hi I'm Kaede Tamada :)
+
+ ## PROFILE
+ ### *name*　tamada kaede
+ ### *birthday*　1996/09/25
+ ### *blood type*　A
+ ### *favorite*　corn
+
+## Free space
+### Best regards, 
 
 <!--
 **tamada-kaede/tamada-kaede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
